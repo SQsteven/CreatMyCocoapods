@@ -1,12 +1,12 @@
 
-
 Pod::Spec.new do |s|
 
   s.name         = "CreatMyCocoapods"
   s.version      = "1.0.0"
-  s.summary      = "概要、功能描述、用法说明"
+  s.summary      = "概述、摘要"
+
   s.description  = <<-DESC
-                        这里是描述,提示告诉我，描述要长，要长过summary
+                    这里是描述，描述要长，要长过summary
                    DESC
 
   s.homepage     = "https://github.com/SQsteven/CreatMyCocoapods"
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   # s.authors            = { "严顺泉" => "782569375@qq.com" }
   # s.social_media_url   = "http://twitter.com/严顺泉"
 
-  # s.platform     = :ios
+  s.platform     = :ios
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
@@ -29,11 +29,10 @@ Pod::Spec.new do |s|
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
-
-  s.source       = { :git => "https://github.com/SQsteven/CreatMyCocoapods.git", :tag => "s.version.to_s" }
+  s.source       = { :git => "https://github.com/SQsteven/CreatMyCocoapods.git", :tag => '1.0.0' }
 
   s.source_files  = "CreatMyCocoapods/*"
-  #  s.exclude_files = "Classes/Exclude"
+  s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
