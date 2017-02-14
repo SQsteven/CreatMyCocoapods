@@ -65,3 +65,15 @@
   
 [![biaoqian]](http://baidu.com)
 [biaoqian]:http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg "点击看看跳到哪里"
+
+
+===
+
+  插入代码片段<br>
+  
+  
+---
+```Object-C
+viod func(void *){}
+```
+---
