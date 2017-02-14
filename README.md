@@ -61,5 +61,7 @@
   ![标签]（ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片）
   
   现在要给一张图片加上超链接<br>
-  [![biaoqian]](http://budu.com)
-  [biaoqian]:http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg "点击看看跳到哪里"
+  
+  
+[![biaoqian]](http://budu.com)
+[biaoqian]:http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg "点击看看跳到哪里"
