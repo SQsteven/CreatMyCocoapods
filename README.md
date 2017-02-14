@@ -17,3 +17,5 @@
     这里写单行文本。在单行文本之前有两个tab
     这里还是单行文本，用enter到下一行，自动的添加tab tab
     需要高亮文字可以用｀｀符号扩起来  ，例如`我要高亮` ｀测试中文输入法是否高亮｀
+    我要粘贴一个链接到readme.md文档上，然后可以用[文字](链接)"悬停显示"格式来添加
+    [我的githud主页](https://github.com/SQsteven/CreatMyCocoapods)"悬停显示"
